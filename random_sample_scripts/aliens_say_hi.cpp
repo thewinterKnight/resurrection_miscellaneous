@@ -9,6 +9,6 @@ int main()
 
 	printf("Yea we're trying to commuinucate. Cools?!\n");
 
-	printf("WELL HELL Yeah we're trying to commuinucate\n");
+	printf("WELL HELL Yeah we're trying to commuinucate. Are you decoding?\n");
 	return 0;
 }
