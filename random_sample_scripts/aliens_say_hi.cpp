@@ -8,5 +8,7 @@ int main()
 	printf("You are pretty darn vulnerable, you sack of douchebags!\n");
 
 	printf("Yea we're trying to commuinucate. Cools?!\n");
+
+	printf("WELL HELL Yeah we're trying to commuinucate\n");
 	return 0;
 }
